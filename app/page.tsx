@@ -1,5 +1,6 @@
+"use client"
+
 import Booking from '@/components/Booking/Booking'
-import Image from 'next/image'
 export default function Home() {
   return (
    <div>
